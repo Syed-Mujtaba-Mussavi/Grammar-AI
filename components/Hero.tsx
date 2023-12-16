@@ -23,7 +23,7 @@ export default function Hero({
       <Container className="relative flex flex-col items-center">
         <div className="flex flex-wrap justify-center gap-2 mt-24 mb-8">
           <a
-            href="https://github.com/Syed-Mujtaba-Mussavi"
+            href="https://github.com/Syed-Mujtaba-Mussavi/Grammar-AI"
             target={"_blank"}
             className="flex items-center gap-1 px-4 py-2 bg-gray-100 border-2 rounded-lg"
           >
